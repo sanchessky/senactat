@@ -29,5 +29,9 @@
 			  ls -lh    = modo lista detalhada
 			  cd        = mudar de diretório  cd -/ voltar / cd ..
 			  TAB       = tabular/ auto-completar 
-			  
+			  --------------------------------------------------------------------------------------
+			  git pull =verificar mudan├žas no github
+                          git config --global user.email "thiagomlkgame@gmail.com"
+                          git config --global user.name "sanchessky"
+
 			         
