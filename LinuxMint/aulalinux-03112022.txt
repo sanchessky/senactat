@@ -29,5 +29,9 @@
 			  ls -lh    = modo lista detalhada
 			  cd        = mudar de diretório  cd -/ voltar / cd ..
 			  TAB       = tabular/ auto-completar 
+              git pull  = verificar mudanças no github
+              git add.  = aceitar as mudanças locais
+              git commit -m "atualizacao"
+              
 			  
 			         
