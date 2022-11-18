@@ -1,0 +1,18 @@
+ Comando  de mover
+ 
+
+                mv (renomear) (origem/destino)
+				
+comando de copiar 
+       
+	           cp -v
+			   
+Comando de imprimir mensagem na tela
+          
+		      echo "MENSAGEM" > .TXT
+		   
+Comando para fazer listar o conteúdo do arquivo
+
+           cat -n /etc/services		   
+		   head  /etc/services
+		   tail /etc/services
